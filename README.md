@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack--Compose-4285F4?style=flat&logo=JetpackCompose&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=Firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   
 </div>
