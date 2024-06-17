@@ -80,9 +80,5 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YongWoo-8933)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dyddn2015)]([벨로그링크](https://velog.io/@dyddn2015/posts))
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dyddn2015)](https://solved.ac/dyddn2015/)
+### ✍ Contents
 
