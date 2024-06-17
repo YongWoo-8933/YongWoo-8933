@@ -33,9 +33,52 @@
 
 <br>
 
-### 🛠 Skill
+### 🛠 Skills
 
+#### Main
+<div>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack--Compose-4285F4?style=flat&logo=JetpackCompose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+  
+</div>
 
+#### Sub
+<div>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white"/>
+  
+</div>
+
+<div>
+  <img src="https://img.shields.io/badge/Amazon--EC2-FF9900?style=flat&logo=AmazonEC2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon--RDS-527FFF?style=flat&logo=AmazonRDS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon--S3-569A31?style=flat&logo=AmazonS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+  
+</div>
+
+#### Tool
+<div>
+  <img src="https://img.shields.io/badge/Android--Studio-3DDC84?style=flat&logo=Android--Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XCode-147EFB?style=flat&logo=XCode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=Pycharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white"/>
+  
+</div>
+
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YongWoo-8933)](https://github.com/anuraghazra/github-readme-stats)
 
